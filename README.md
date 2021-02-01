@@ -1,2 +1,2 @@
 # E-Neko420.github.io
-Kinklist
+More inclusive version of the kinklist.
